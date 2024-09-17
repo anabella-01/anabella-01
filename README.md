@@ -1,5 +1,4 @@
-
-<img src="https://github.com/anabella-01/anabella-01/blob/main/Banner%20de%20anie%20JPG.jpg?raw=true" width="1000" height="300" alt="Banner">
+![Banner](https://github.com/anabella-01/anabella-01/blob/main/Banner%20de%20anie%20JPG.jpg?raw=true)
 
 ## Hey everyone! I'm Annie 👋
 
