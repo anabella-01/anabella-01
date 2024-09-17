@@ -1,4 +1,3 @@
-![Banner de anie JPG](https://github.com/user-attachments/assets/4e4d682c-be4c-477f-acd6-750adbd9b674)
 
 ## Hey everyone! I'm Annie 👋
 
