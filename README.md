@@ -1,5 +1,8 @@
-## Hi there 👋
+![Banner de anie JPG](https://github.com/user-attachments/assets/4e4d682c-be4c-477f-acd6-750adbd9b674)
 
+## Hey everyone! I'm Annie 👋
+
+## About Me
 <!--
 **anabella-01/anabella-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
