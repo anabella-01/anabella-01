@@ -4,7 +4,7 @@
 
 ## About Me
 
-## Conect With me
+## Connect With me
 
 ## My Social Networks:
 
