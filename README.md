@@ -10,4 +10,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabella-01&layout=compact&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anabella-01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
