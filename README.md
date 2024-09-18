@@ -2,7 +2,7 @@
 
 ## Hey everyone! I'm Annie 👋
 
-## About Me
+## 🧑‍💻 About Me
 
 Hi! I’m Annie, a Front-end developer who’s always learning and growing.
 
@@ -12,9 +12,10 @@ I love collaborating and sharing my knowledge with the community. I enjoy workin
 
 Each line of code is a new opportunity to grow, and I work hard to develop solutions that challenge and help me advance. I’m excited to keep learning and growing, and I appreciate any chance to collaborate and improve.
 
+Please feel free to contact me for any inquiries. 
 Thanks for checking out my profile!
 
-## Connect With Me
+## ✉️ Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anabella-rodriguez/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) 
