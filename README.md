@@ -22,8 +22,6 @@ Thanks for checking out my profile!
 
 
 ## GitHub Analytics
-![Annie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabella-01&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabella-01&layout=compact&theme=radical)
+![Annie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabella-01&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabella-01&layout=compact&theme=radical)
 
 
