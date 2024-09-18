@@ -21,7 +21,7 @@ Thanks for checking out my profile!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodriguezanabella094@gmail.com)
 
 
-## Estadísticas de GitHub
+## GitHub Analytics
 ![Annie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabella-01&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabella-01&layout=compact&theme=radical)
