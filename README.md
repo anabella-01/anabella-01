@@ -1,18 +1,14 @@
+## 💻​ About Me
 
-## Hey everyone! I'm Annie 👋
+Hey everyone! I’m Anabella, a growing Frontend developer focused on React with enthusiasm, consistent practice, and organization. I started out of curiosity and today I enjoy learning, building real projects, and improving every day.
 
-## 🧑‍💻 About Me
+I work with intention, setting clear goals, progressing step by step, and using tools that enhance my process. I don’t chase perfection, but rather aim to understand deeply and apply thoughtfully. I’m interested in creating functional, clear, and sustainable solutions.
 
-Hi! I’m Annie, a Front-end developer who’s always learning and growing.
+I am consistent, proactive, and committed, and I value feedback as an opportunity to improve. I believe practice is the way to integrate knowledge and communication is key for effective collaboration.
 
-Although I don’t have formal work experience yet, my personal projects and contributions showcase my progress, dedication, and effort. I’m disciplined and consistent in my learning, always with clear goals guiding my path.
+Although I don’t have formal experience yet, I train daily as if I were part of a professional team. My goal is to keep growing, contribute value, and develop in environments that appreciate continuous learning, collaboration, and progressive development.
 
-I love collaborating and sharing my knowledge with the community. I enjoy working in teams and value constructive feedback, which I always receive with humility and an open attitude towards improvement. I don’t settle for doing things halfway; I put in a lot of effort and strive to learn and apply what I don’t know effectively.
-
-Each line of code is a new opportunity to grow, and I work hard to develop solutions that challenge and help me advance. I’m excited to keep learning and growing, and I appreciate any chance to collaborate and improve.
-
-Please feel free to contact me for any inquiries. 
-Thanks for checking out my profile!
+You can find some of my projects below. I love sharing what I learn, so if you’re on the same path, let’s connect!
 
 ## ✉️ Connect With Me
 
