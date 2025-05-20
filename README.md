@@ -18,6 +18,6 @@ You can find some of my projects below. I love sharing what I learn, so if youâ€
 
 
 ## GitHub Analytics
-![Annie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabella-01&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabella-01&layout=compact&theme=radical)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabella-01&layout=compact&theme=radical)
 
 
